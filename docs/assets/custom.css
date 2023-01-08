@@ -1,0 +1,17 @@
+:root > * {
+    --md-primary-fg-color: #007dc5;
+    --md-primary-fg-color--light: #89d2fc;
+    --md-primary-fg-color--dark: #00466e;
+}
+
+img{
+    border: 1px solid #000;
+    display: block;
+    margin: auto;
+}
+
+.md-typeset__table {
+    display: table;
+    margin: auto;
+}
+

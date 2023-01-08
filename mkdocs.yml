@@ -1,0 +1,63 @@
+site_name: Manual STATERA PT
+site_url: https://docs.talentum.cotec.pt
+markdown_extensions:
+  - meta
+  - footnotes
+  - tables
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+extra_css:
+  - assets/custom.css
+theme:
+  name: material
+  language: pt
+  features:
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - toc.integrate
+  favicon: images/favicon.ico
+nav:
+  - Introdução:
+    - intro/index.md
+    - Lista de acrónimos: intro/lista_de_acronimos.md
+    - Sumário Executivo: intro/sumario_executivo.md
+  - Enquadramento:
+    - enquadramento/index.md
+    - Decisões de Investimento: enquadramento/decisoes_de_investimento.md
+    - Decisões de Financiamento: enquadramento/decisoes_de_financiamento.md
+  - Apuramento do Custo de Financiamento:
+    - apuramento/index.md
+    - O Custo Médio Ponderado do Capital (WACC):
+      - apuramento/o_custo_medio_ponderado_do_capital.md
+      - Taxa de Remuneração dos Capitais Proprios: apuramento/taxa_de_remuneracao_dos_capitais_proprios.md
+      - Taxa de juro isenta de risco: apuramento/taxa_de_juro_isenta_de_risco.md
+      - O prémio de risco de mercado: apuramento/o_premio_de_risco_de_mercado.md
+      - Coeficiente beta dos Capitais Próprios: apuramento/coeficiente_beta_dos_capitais_proprios.md
+      - Taxa de Remuneração dos Capitais Alheios: apuramento/taxa_de_remuneracao_dos_capitais_alheios.md
+      - Estrutura de Capitais: apuramento/estrutura_de_capitais.md
+      - Taxa de Imposto: apuramento/taxa_de_imposto.md
+      - O WACC para o setor Green & Renewable Energy: apuramento/o_wacc_para_o_setor_green_renewable_energy.md
+  - O Simulador - Principais Etapas:
+    - simulador/index.md
+    - Caracterização da Empresa: simulador/caracterizacao_da_empresa.md
+    - Motivo de Financiamento: simulador/motivo_de_financiamento.md
+    - Tipo de Financiamento: simulador/tipo_de_financiamento.md
+    - Simulação Final: simulador/simulacao_final.md
+  - Plataforma Digital:
+    - plataforma/index.md
+    - Login: plataforma/login.md
+    - Registo: plataforma/registo.md
+    - Pedido de Nova Palavra-passe: plataforma/pedido_de_nova_palavrapasse.md
+    - Entrada da Aplicação: plataforma/entrada_na_aplicacao.md
+  - Anexos:
+    - anexos/index.md
+    - Anexo I: anexos/anexo_i.md
+    - Anexo II: anexos/anexo_ii.md

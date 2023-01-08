@@ -1,0 +1,66 @@
+---
+hide:
+  - toc
+---
+
+# Decisões de financiamento
+
+O financiamento da empresa ou de um qualquer projeto de investimento pode ser entendido como um conjunto de operações de captação de capital, com o objetivo de satisfazer as necessidades de recursos financeiros resultantes das atividades operacionais e de investimento da empresa. O financiamento resulta de diversas fontes e instrumentos e permanece na empresa por diferentes prazos. As fontes e instrumentos de financiamento podem decorrer do recurso ao financiamento externo no mercado financeiro, pela emissão e reembolso de ativos financeiros ou contratos de financiamento por contrapartida de capital, ou do recurso ao autofinanciamento (pela não distribuição de _cash flow_ disponível).
+
+A decisão de financiamento, em especial enquanto contrapartida financeira da decisão de investimento, assume uma importância decisiva para qualquer empresa. A decisão de investimento constitui, sem dúvida, a razão de ser da empresa e a fonte essencial de criação de valor. No entanto, a decisão de financiamento é fundamental para o desenvolvimento da empresa, na medida em que constitui uma condição necessária para o sucesso do investimento. Na análise das decisões de investimento, assume-se que a empresa tem acesso livre e ilimitado a todas as fontes e instrumentos de financiamento, o que lhe permite implementar qualquer investimento com capacidade para criar valor. Na realidade, porém, tal não sucede, nomeadamente para empresas com capacidade financeira limitada, como são exemplo as PMEs; ou em projetos de investimento de base inovadora. Neste contexto, o estudo pormenorizado das decisões de financiamento torna-se indispensável para qualquer gestor financeiro.
+
+A decisão de financiamento tem ainda importância pelo facto de possuir alguma capacidade para, por si mesma, criar valor pela via da minimização da taxa de custo do capital investido (ou WACC ou custo global de financiamento), contribuindo para um maior diferencial entre o retorno e o custo do capital, tal como se abordará em ponto subsequente sobre a relação entre estrutura de capitais e o valor empresarial.
+
+## A escolha do tipo de financiamento: capital próprio versus endividamento
+
+O financiamento do investimento de uma empresa ou projeto de investimento pode ser efetuado através de dois tipos genéricos de capitais:
+
+1. Capitais próprios, representados por ações (no caso de sociedades anónimas) ou quotas (sociedades por quotas), cujos proprietários são os acionistas ou sócios;
+2. Endividamento ou capitais alheios representados por títulos de crédito, como as obrigações, ou por contratos de empréstimo, cujos proprietários são os credores financeiros. O endividamento constitui a parcela do ‘passivo’ remunerado explicitamente, também designado de ‘passivo de taxa de juro’.
+
+Estes dois tipos genéricos de capital têm um perfil muito distinto em termos de risco e retorno. Os capitais próprios são capitais com direitos residuais aos _cash flows_ e, por isso, têm um perfil agressivo de risco e retorno para os investidores. Os direitos residuais aos _cash flows_ estão relacionados com atributos como a subordinação do capital e rendimentos, a contingência dos rendimentos e o não reembolso dos capitais. Já o endividamento é constituído por capitais com direitos contratuais aos _cash flows_ (existe um plano de remuneração e reembolso implícito no contrato) e, portanto, tem um perfil de risco e retorno mais defensivo. Os direitos contratuais aos _cash flows_ estão relacionados com atributos como a prioridade do acesso ao capital e rendimentos, a compulsividade jurídica de recebimento do capital e dos rendimentos e o reembolso dos capitais. O controlo é outra das variáveis que permite distinguir os dois tipos de capital: os capitais próprios têm associados direitos de controlo dos ativos e da tomada de decisão (i.e., direitos de voto), enquanto a dívida não possui tal atributo.
+
+As duas fontes de financiamento genéricas, capitais próprios e endividamento, podem ser subdivididas em diversos subgrupos ou instrumentos de financiamento. Os capitais próprios podem ser divididos em (_i_) auto-financiamento e (_ii_) capital financeiro, este último com recurso a empreendedores, investidores e fundos de capital de risco (_private equity_ ou _venture capital_). Apesar dos instrumentos de capital alheio ou endividamento apresentarem uma enorme multiplicidade, podem ser classificados segundo dois grandes critérios: (_i_) origem – mercado de capitais (p.e., obrigações e papel comercial) versus intermediários financeiros (p.e., empréstimo bancário, _leasing_, _factoring_, _confirming_ e conta corrente); e (_ii_) prazo – curto prazo (p.e., papel comercial, _factoring_, _confirming_ e conta corrente) _versus_ longo prazo (p.e., obrigações, _leasing_ e empréstimo bancário).
+
+No entanto, cada vez mais se assiste à generalização da emissão de uma terceira classe de ativos financeiros, os chamados capitais híbridos. São exemplos as ações preferenciais, as obrigações participantes, as obrigações convertíveis ou com _warrants_, entre outros tipos de instrumentos de financiamento que combinam características de ambos os tipos genéricos de capital.
+
+Finalmente, existem inúmeros programas de incentivos e de financiamento direcionados para as mais diversas necessidades do tecido empresarial, na medida em que a incerteza associada a muitos projetos inovadores impede o seu financiamento quer por dívida, quer por capitais próprios dos seus promotores. O financiamento de qualquer projeto via fundos de inovação (e.g., I&D, Investimento Produtivo, Qualificação e Internacionalização, Formação) pode ser enquadrado nos dois tipos genéricos de capital, porquanto se caracterizam por serem apoios a fundo perdido – neste caso uma tipologia de capital próprio – ou com devolução dos fundos (mesmo que tendo implícitos uma taxa de juro nula) – classificados, neste caso, como endividamento.
+
+## Estrutura de Capitais e o valor empresarial
+
+A elaboração do plano de financiamento da empresa ou de um qualquer projeto de investimento é um processo que passa, normalmente, por duas fases fundamentais:
+
+1. Determinação do valor das necessidades de financiamento, de acordo com o plano de investimento;
+2. Seleção dos meios de financiamento.
+
+Enquanto que a escolha entre diferentes tipos de instrumentos de financiamento é uma decisão tática, ligada com questões de custo, acessibilidade e flexibilidade das diversas modalidades das fontes de financiamento; a escolha do mix de financiamento entre capitais próprios e endividamento é uma decisão estratégica, determinada por variáveis como o custo do capital, a estrutura de capital existente, as perspetivas de evolução dos negócios da empresa (crescimento, inovação e retorno), o prazo e o risco dos investimentos, a política de dividendos, entre outras. É a combinação entre capitais próprios e dívida na estrutura de financiamento de uma empresa; i.e., a proporção de capital próprio e dívida no total do capital investido, que se designa por estrutura de capitais. 
+
+A determinação da taxa de custo do capital é uma tarefa fundamental para a avaliação de decisões de financiamento e de investimento (já que a taxa de desconto dos _cash flows_ deve ser, por definição, a taxa de custo do capital investido) dada a importância e a extrema sensibilidade das medidas do valor criado face às estimativas do custo do capital. O fundamento económico do conceito do custo do capital é o de que todo o capital investido, próprio ou alheio, tem necessariamente um dado custo, seja ele explícito ou implícito.
+
+O conceito de custo de oportunidade é um conceito que abrange, quer os custos implícitos, quer alguns custos explícitos, sendo aplicável a todos os tipos de capital. Como, regra geral, uma empresa recorre a múltiplas fontes de capital com custos explícitos e implícitos associados, dada a necessidade de determinação de uma taxa (única) de custo global do financiamento da empresa, a metodologia de análise mais divulgada e aceite pelos investigadores e gestores é aquela que passa pelo cálculo de uma taxa de custo médio ponderado do capital. Esta taxa consiste num valor médio das taxas de custo (marginais) do capital das diversas fontes de financiamento da empresa, em que o contributo de cada taxa de custo é ponderado pelo peso ou importância relativa de cada fonte de financiamento no total dos capitais investidos na empresa, a valores de mercado (_vide_ capítulo 3 sobre a fórmula de cálculo geral e detalhe sobre cada uma das suas componentes).
+
+De forma genérica, a determinação da taxa de custo médio ponderado do capital pode ser desenvolvida em duas fases: (_i_) determinação dos pesos relativos (proporções) das fontes ou instrumentos de financiamento a valores de mercado; i.e., a estrutura de capitais; e (_ii_) determinação das taxas de custo do capital das diversas fontes e instrumentos de financiamento.
+
+No que respeita à primeira fase, as ponderações a utilizar para o cálculo da taxa de custo do capital são determinadas tendo por base o risco do negócio e os custos e benefícios da capacidade de endividamento média dos negócios que a empresa pretende explorar durante o período de planeamento implícito no seu plano estratégico. Assim, a partir da formulação da estratégia e do tipo de negócios em que a empresa presentemente se envolve e se pretende envolver no futuro, a gestão da empresa pode partir para a definição da estratégia financeira que permite sustentar e suportar a estratégia do negócio. Nessa estratégia deve estar incluída uma estrutura de capitais que determine o grau de risco financeiro que a empresa está disposta a correr. Esta estrutura é, muitas vezes, avaliada tendo em atenção objetivos em termos de notação de risco de crédito, balanceando a necessidade de manutenção de flexibilidade financeira que permita o aproveitamento de oportunidades de investimento muito favoráveis com o aproveitamento das vantagens do endividamento. Essa estrutura de capitais, um dos conceitos mais divulgados para a avaliação de investimentos, permite separar decisões de avaliação de investimentos e decisões de financiamento, sendo conhecida como _target capital structure_ ou estrutura de capitais-alvo (ECA).
+
+Por ECA entende-se a estrutura de capital ideal e mais adequada para financiar e suportar a estratégia de negócio futura, refletindo uma decisão de financiamento estratégica e de médio e longo prazo. A ECA não resulta necessariamente de um processo de otimização. Este conceito leva em atenção variáveis como a expectativa de evolução do negócio, a situação financeira da empresa, a situação da concorrência, conjuntura económica e do mercado de capitais, entre outras. A definição de uma ECA deve ser fundamentada a partir de uma cuidadosa análise de _benchmarking_ e de cenários de evolução das variáveis do ciclo de negócios e da liquidez da economia. Como se trata do grau de endividamento que a empresa tenta manter, será provavelmente o melhor previsor para a futura estrutura financeira da empresa que condiciona o risco financeiro da empresa.
+
+A definição da estrutura de capitais é de todo relevante pois afeta o valor de uma empresa. Se apelarmos aos conceitos de valor, _free cash flow_ e WACC, o valor de uma empresa ou projeto de investimento pode ser determinado:
+
+<p id="val-eq"></p>
+
+$$
+V = VAL = - I_0 + \sum_{t = 1}^n \frac{FCF_t}{(1 + WACC)^t} + \frac{VR_n}{(1 + WACC)^n}
+$$
+
+em que:
+
+- $I_0$ = investimento inicial em 0.
+- $FCF_t$ = free cash flow do ano _t_.
+- $VR_n$ = valor residual do projeto ou empresa no ano _n_.
+- $n$ = período de planeamento ou de estimação explícita dos _free cash flows_.
+- $WACC$ = taxa de atualização ou custo de oportunidade do capital, neste caso o custo médio ponderado do capital ou _weighted average cost of capital_.
+
+Considerando que a capacidade de geração futura de FCF se mantém constante – separação entre decisões de avaliação de investimentos e decisões de financiamento – o valor depende da estrutura de capitais via taxa de atualização; i.e., o valor de uma empresa é máximo quando o _WACC_ é mínimo. Percebendo que a estrutura de capitais e, por isso mesmo, o nível de endividamento afeta o valor de uma empresa, importa perceber agora de que forma é que tal acontece. 
+
+Se, por um lado, o incremento no grau de endividamento aumenta o risco (financeiro) da empresa e logo as diversas taxas de custo do capital, por outro, o incremento no grau de endividamento aumenta o retorno esperado da empresa via maior proporção de financiamento mais barato, já que o custo da dívida é inferior ao custo do capital próprio. Assim, a minimização do custo médio ponderado do capital depende do confronto e da combinação entre as vantagens (p.e., vantagens fiscais do endividamento, menores custos de financiamento externo face a aumentos de capital, redução de custos de agência entre gestores e acionistas e maior disciplina de mercado e financeira) e desvantagens (p.e., incremento nos custos esperados de insolvência, maiores custos de financiamento externo face a autofinanciamento e incremento nos custos de agência entre acionistas e credores) marginais por unidade adicional de grau de endividamento.
