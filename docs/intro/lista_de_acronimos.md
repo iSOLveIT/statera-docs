@@ -5,7 +5,7 @@ hide:
 
 # Lista de Acrónimos
 
-- FCF: Free Cash Flow 
+- FCF: Free Cash Flow
 - WACC: Weighted Average Cost of Capital (ou custo médio ponderado do capital)
 - *R<sub>E</sub>*: cost o equity (ou custo do capital próprio)
 - *R<sub>D</sub>*: cost of debt (ou custo da dívida)

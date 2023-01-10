@@ -9,4 +9,4 @@ No separador “Tipo de Financiamento” o utilizador terá de identificar a mod
 
 Adicionalmente, o utilizador terá de identificar o montante do financiamento por tipo de financiamento.
 
-Finalmente, o simulador apresentará uma taxa de retorno exigida em função da tipologia de capital. O utilizador tem a opção de manter essa taxa ou inserir a que julgar mais conveniente. As taxas apresentadas são apuradas de acordo com as metodologias apresentadas no de [apuramento do custo de financiamento](../apuramento/index.md) secção.
+Finalmente, o simulador apresentará uma taxa de retorno exigida em função da tipologia de capital. O utilizador tem a opção de manter essa taxa ou inserir a que julgar mais conveniente. As taxas apresentadas são apuradas de acordo com as metodologias apresentadas no [apuramento do custo de financiamento](../apuramento/index.md).
